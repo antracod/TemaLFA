@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1553005022 source:c:\users\teodor\desktop\new folder\lfa\temalfa\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<map>
+	<set>
+	<list>
+	"write.h"
+
+1552999560 c:\users\teodor\desktop\new folder\lfa\temalfa\read.h
+
+1553005023 c:\users\teodor\desktop\new folder\lfa\temalfa\write.h
+	<iostream>
+	<fstream>
+	<string>
+	<map>
+	<set>
+	<list>
+
